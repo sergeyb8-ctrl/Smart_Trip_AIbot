@@ -1,0 +1,1041 @@
+{
+  "metadata": {
+    "city": "Санкт-Петербург",
+    "retrieved_at": "2026-10-19",
+    "source": "OpenStreetMap via Overpass API",
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL 1.0",
+    "license_url": "https://www.openstreetmap.org/copyright",
+    "scope": "23 музея (в том числе 3 гастрономических), 17 парков и садов, 20 архитектурных объектов и площадей",
+    "limitations": "Названия, центры геометрии объектов и opening_hours получены из OSM. Цены и длительность заданы авторами как учебные оценки; часы работы не гарантированы. Центр геометрии может не совпадать со входом."
+  },
+  "places": [
+    {
+      "id": "osm-relation-8092294",
+      "name": "Государственный Эрмитаж",
+      "latitude": 59.941231,
+      "longitude": 30.3156306,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 1000,
+      "duration": 150,
+      "source_url": "https://www.openstreetmap.org/relation/8092294",
+      "opening_hours": "Tu-Su 12:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2614475",
+      "name": "Русский музей",
+      "latitude": 59.9385846,
+      "longitude": 30.3307196,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/2614475",
+      "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Th 13:00-21:00; Tu off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3296328",
+      "name": "Музей антропологии и этнографии имени Петра Великого Российской Академии наук",
+      "latitude": 59.9415303,
+      "longitude": 30.3042545,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/3296328",
+      "opening_hours": "Tu-Su 10:00-18:00;Mo off;Tu[-1] off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-3702115194",
+      "name": "Музей Фаберже",
+      "latitude": 59.9347199,
+      "longitude": 30.3431283,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/3702115194",
+      "opening_hours": "10:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-507091461",
+      "name": "Музей Ф. М. Достоевского",
+      "latitude": 59.9273694,
+      "longitude": 30.3506803,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/507091461",
+      "opening_hours": "Tu,Th-Su 11:00-18:00; We 13:00-20:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3801086",
+      "name": "Музей Анны Ахматовой в Фонтанном доме",
+      "latitude": 59.9359467,
+      "longitude": 30.3462484,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/3801086",
+      "opening_hours": "Tu-Su 10:30-18:30; We 12:00-20:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-238571",
+      "name": "Михайловский замок",
+      "latitude": 59.9403819,
+      "longitude": 30.3377162,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/238571",
+      "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Th 13:00-21:00; Tu off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-235984453",
+      "name": "Российский этнографический музей",
+      "latitude": 59.9379446,
+      "longitude": 30.3343318,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/way/235984453",
+      "opening_hours": "Tu 10:00-21:00; We-Su 10:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-12153910621",
+      "name": "Зоологический музей",
+      "latitude": 59.9428418,
+      "longitude": 30.3056749,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/12153910621",
+      "opening_hours": "Mo,We-Su 11:00-19:00; Tu,We[2] off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-43679385",
+      "name": "Музей политической истории России",
+      "latitude": 59.9545728,
+      "longitude": 30.3252899,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/way/43679385",
+      "opening_hours": "10:00-18:00; We 10:00-20:00; Th off; Mo[-1] off; Jan 01,Jan 02,Jan 07,May 01,Dec 31 off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-1394028",
+      "name": "Музей прикладного искусства СПБГХПА им. А. Л. Штиглица",
+      "latitude": 59.9429142,
+      "longitude": 30.3406772,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/1394028",
+      "opening_hours": "Tu-Su 11:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-3517542114",
+      "name": "Научно-исследовательский музей Российской академии художеств",
+      "latitude": 59.9381444,
+      "longitude": 30.2895091,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/3517542114",
+      "opening_hours": "We 11:00-18:00; Th 12:00-19:00; Fr-Su 11:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-311367818",
+      "name": "Музей-институт семьи Рерихов",
+      "latitude": 59.9316187,
+      "longitude": 30.2719996,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/311367818",
+      "opening_hours": "We 12:00-21:00; Th, Sa, Su 11:00-18:00; Fr 11:00-20:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-7815853",
+      "name": "Музей железных дорог России",
+      "latitude": 59.9047003,
+      "longitude": 30.2964122,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/7815853",
+      "opening_hours": "Mo 10:00-18:00; We 12:30-20:30; Fr-Su 10:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-501596014",
+      "name": "Музей космонавтики и ракетной техники им. В. П. Глушко",
+      "latitude": 59.9518817,
+      "longitude": 30.3212726,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/501596014",
+      "opening_hours": "Th-Tu 11:00-19:00; We off",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-123243367",
+      "name": "Юсуповский дворец",
+      "latitude": 59.9292647,
+      "longitude": 30.2991789,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/way/123243367",
+      "opening_hours": "Mo-Su 10:00-19:30",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-3962381548",
+      "name": "Музей театрального и музыкального искусства",
+      "latitude": 59.9311246,
+      "longitude": 30.336587,
+      "tags": [
+        "museums",
+        "history",
+        "art"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/node/3962381548",
+      "opening_hours": "Mo,Th-Su 11:00-19:00; Tu off; We 13:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-28712275",
+      "name": "Домик Петра I",
+      "latitude": 59.9532942,
+      "longitude": 30.3308485,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/way/28712275",
+      "opening_hours": "Mo,We,Fr-Su 10:00-18:00; Tu off; Th 13:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3229838",
+      "name": "Исаакиевский собор",
+      "latitude": 59.9340838,
+      "longitude": 30.3061563,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 600,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/3229838",
+      "opening_hours": "10:00-18:00; May-Sep 10:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3272566",
+      "name": "Крейсер \"Аврора\"",
+      "latitude": 59.955415,
+      "longitude": 30.3378083,
+      "tags": [
+        "museums",
+        "history"
+      ],
+      "price": 700,
+      "duration": 90,
+      "source_url": "https://www.openstreetmap.org/relation/3272566",
+      "opening_hours": "We-Su 11:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2653740",
+      "name": "Летний сад",
+      "latitude": 59.9445853,
+      "longitude": 30.3350962,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/2653740",
+      "opening_hours": "May-Sep: We-Mo 10:00-22:00; Tu off; Oct-Mar: We-Mo 10:00-20:00; Tu off; Apr: off",
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2614476",
+      "name": "Михайловский сад",
+      "latitude": 59.9398334,
+      "longitude": 30.3326266,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/2614476",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-1582734",
+      "name": "Таврический сад",
+      "latitude": 59.946101,
+      "longitude": 30.3728761,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/1582734",
+      "opening_hours": "05:30-24:00",
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-1604351",
+      "name": "Александровский сад",
+      "latitude": 59.936437,
+      "longitude": 30.3068003,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/1604351",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3296312",
+      "name": "Александровский парк",
+      "latitude": 59.9532645,
+      "longitude": 30.3145625,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/3296312",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2569945",
+      "name": "Приморский парк Победы",
+      "latitude": 59.9704787,
+      "longitude": 30.2464642,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/2569945",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2207279",
+      "name": "Юсуповский сад",
+      "latitude": 59.922983,
+      "longitude": 30.3131185,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/2207279",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3290836",
+      "name": "Никольский сад",
+      "latitude": 59.9227379,
+      "longitude": 30.2996691,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/3290836",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3277181",
+      "name": "Румянцевский сад",
+      "latitude": 59.938453,
+      "longitude": 30.292532,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/3277181",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-15745625",
+      "name": "Марсово поле",
+      "latitude": 59.9435866,
+      "longitude": 30.3316629,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/15745625",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3019072",
+      "name": "сад Фонтанного дома",
+      "latitude": 59.9364353,
+      "longitude": 30.3464888,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/3019072",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2864744",
+      "name": "сад Смольного собора",
+      "latitude": 59.9495593,
+      "longitude": 30.3953819,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/2864744",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-19901603",
+      "name": "Рождественский сквер",
+      "latitude": 59.9347054,
+      "longitude": 30.372921,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/19901603",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-13492538",
+      "name": "Троицко-Петровский сквер",
+      "latitude": 59.9527551,
+      "longitude": 30.3259433,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/13492538",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-4828118",
+      "name": "Князь-Владимирский сквер",
+      "latitude": 59.9520514,
+      "longitude": 30.2924983,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/relation/4828118",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-28691805",
+      "name": "Ново-Манежный сквер",
+      "latitude": 59.9359128,
+      "longitude": 30.3406378,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/way/28691805",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-115318448",
+      "name": "Казанский сквер",
+      "latitude": 59.9350811,
+      "longitude": 30.3251778,
+      "tags": [
+        "parks",
+        "history"
+      ],
+      "price": 0,
+      "duration": 50,
+      "source_url": "https://www.openstreetmap.org/way/115318448",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-1947508",
+      "name": "Дворцовая площадь",
+      "latitude": 59.9388752,
+      "longitude": 30.3148206,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/1947508",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-638337571",
+      "name": "Сенатская площадь",
+      "latitude": 59.9362496,
+      "longitude": 30.3032043,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/638337571",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-638329070",
+      "name": "площадь Искусств",
+      "latitude": 59.9372695,
+      "longitude": 30.3316509,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/638329070",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-638354640",
+      "name": "площадь Островского",
+      "latitude": 59.9325697,
+      "longitude": 30.336548,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/638354640",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-638324920",
+      "name": "Биржевая площадь",
+      "latitude": 59.9435553,
+      "longitude": 30.3051468,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/638324920",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-227969",
+      "name": "Петропавловская крепость",
+      "latitude": 59.9500638,
+      "longitude": 30.3164295,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/227969",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2612859",
+      "name": "Адмиралтейство",
+      "latitude": 59.9379995,
+      "longitude": 30.3077697,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/2612859",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-11763697",
+      "name": "Казанский собор",
+      "latitude": 59.9344641,
+      "longitude": 30.3247729,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/11763697",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-102305449",
+      "name": "Дом Зингера",
+      "latitude": 59.9358632,
+      "longitude": 30.3258905,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/102305449",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-100016301",
+      "name": "Арка Главного штаба",
+      "latitude": 59.9380677,
+      "longitude": 30.317256,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/100016301",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-2000648",
+      "name": "Александровская колонна",
+      "latitude": 59.9390432,
+      "longitude": 30.3158163,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/2000648",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3084697",
+      "name": "Ростральная колонна",
+      "latitude": 59.9431035,
+      "longitude": 30.3068999,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/3084697",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-3084726",
+      "name": "Санкт-Петербургская Биржа",
+      "latitude": 59.9434859,
+      "longitude": 30.3046028,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/3084726",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-5737615",
+      "name": "Банковский мост",
+      "latitude": 59.932179,
+      "longitude": 30.3249303,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/5737615",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-relation-13933407",
+      "name": "Витебский вокзал",
+      "latitude": 59.9196304,
+      "longitude": 30.3294577,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/relation/13933407",
+      "opening_hours": "24/7",
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-41230751",
+      "name": "Летний дворец Петра I",
+      "latitude": 59.947232,
+      "longitude": 30.3360899,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/41230751",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-128981839",
+      "name": "Арка Новой Голландии",
+      "latitude": 59.9283533,
+      "longitude": 30.2906536,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/128981839",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-249082841",
+      "name": "Петру Великому",
+      "latitude": 59.9364084,
+      "longitude": 30.3021774,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/node/249082841",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-1123474657",
+      "name": "Памятник императору Николаю I",
+      "latitude": 59.932104,
+      "longitude": 30.3084347,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/node/1123474657",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-638338375",
+      "name": "Театральная площадь",
+      "latitude": 59.9260695,
+      "longitude": 30.2981092,
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "price": 0,
+      "duration": 25,
+      "source_url": "https://www.openstreetmap.org/way/638338375",
+      "opening_hours": null,
+      "visit_mode": "outdoor",
+      "price_note": "Внешний осмотр или прогулка; нулевая стоимость — расчётное допущение, доступ может измениться",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-2661549863",
+      "name": "Музей Кофе",
+      "latitude": 59.9495388,
+      "longitude": 30.3623837,
+      "tags": [
+        "museums",
+        "food"
+      ],
+      "price": 700,
+      "duration": 60,
+      "source_url": "https://www.openstreetmap.org/node/2661549863",
+      "opening_hours": "10:00-20:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-node-4944146825",
+      "name": "Музей специй",
+      "latitude": 59.940623,
+      "longitude": 30.289552,
+      "tags": [
+        "museums",
+        "food"
+      ],
+      "price": 700,
+      "duration": 60,
+      "source_url": "https://www.openstreetmap.org/node/4944146825",
+      "opening_hours": "Mo-Su 11:00-21:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    },
+    {
+      "id": "osm-way-24882049",
+      "name": "Музей хлеба",
+      "latitude": 59.9535978,
+      "longitude": 30.3601678,
+      "tags": [
+        "museums",
+        "food"
+      ],
+      "price": 700,
+      "duration": 60,
+      "source_url": "https://www.openstreetmap.org/way/24882049",
+      "opening_hours": "Tu-Sa 10:00-18:00",
+      "visit_mode": "inside",
+      "price_note": "Учебная оценка билета, не актуальный тариф",
+      "source_date": "2026-10-19"
+    }
+  ]
+}
